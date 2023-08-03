@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(telafundo.png);
+    margin: 0;
+    padding: 20px;
+    background-color: #f1f1f1;
+    background: size 250%;
+    background-repeat: no-repeat;
+    font-size: large;
+  }
+ 
+  h1 {
+    text-align: right;
+    color: #000000;
+  }
+  h2{
+    color: #000000;
+    text-align: right;
+  }
+  p{
+    text-align: right;
+    color: #000000;
+  }
+  h3{
+    text-align: right;
+    color: #000000;
+font: caption;
+font-size: medium;
+  }
+  
+  div{
+    text-align: center;
+    color:#000000;
+    
+}
+  button{
+    transition: background-color 0.9s ease;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.2);
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    left: 43%;
+    background-color: #f1f1f1;
+      
+  }
